@@ -11,7 +11,8 @@ Atualmente faço estágio na Lanceiros Tech, como desenvolvedor web front-end.
 Procuro aprimorar meus conhecimentos e desenvolver novas hailidades.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<lucasamuel>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasamuel&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Lucas Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=<lucasamuel>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasamuel&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
