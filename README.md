@@ -10,9 +10,12 @@ Oi, me chamo Lucas Samuel, sou discente do curso de Tecnologia em Análise e em 
 Atualmente faço estágio na Lanceiros Tech, como desenvolvedor web front-end.
 Procuro aprimorar meus conhecimentos e desenvolver novas hailidades.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasamuel&repo=github-readme-stats&theme=dark&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=lucasamuel&count_private=true&theme=dark&show_icons=true" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasamuel&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Lucas Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasamuel&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
