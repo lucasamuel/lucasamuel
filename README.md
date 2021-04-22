@@ -1,14 +1,27 @@
-### Olá, seja bem vindo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BhWWolCT9TjmwGVwHw2C0fw%3D%3D)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BhWWolCT9TjmwGVwHw2C0fw%3D%3D)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+557791558248&text=Olá!)](https://api.whatsapp.com/send?phone=+557791558248&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:araujo.lucassamuel@gmail.com)](mailto:araujo.lucassamuel@gmail.com)
-
+## Olá, seja bem vinde! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Oi, me chamo Lucas Samuel, sou discente do curso de Tecnologia em Análise e em Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi. 
 
 Atualmente faço estágio na Lanceiros Tech, como desenvolvedor web front-end.
 Procuro aprimorar meus conhecimentos e desenvolver novas hailidades.
+
+### Redes Sociais
+
+<a href="https://www.linkedin.com/in/lucassamuel1/" target="blank">
+  <img align="center" alt"lucas-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"
+       style="max-width:100%;">
+</a>
+
+
+
+<a href="https://www.instagram.com/lucsamuel_/" target="blank">
+  <img align="center" alt"lucas-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/instagram.svg"
+       style="max-width:100%;">
+</a>
+
+### Linguagens e Ferramentas
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasamuel&repo=github-readme-stats&theme=dark&layout=compact" />
