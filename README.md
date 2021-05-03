@@ -2,7 +2,7 @@
 
 Oi, me chamo Lucas Samuel, sou discente do curso de Tecnologia em Análise e em Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi. 
 
-Atualmente faço estágio na Lanceiros Tech, como desenvolvedor web front-end.
+Atualmente faço estágio na <a href="https://lanceiros.com/">Lanceiros Tech</a>, como desenvolvedor web front-end.
 Procuro aprimorar meus conhecimentos e desenvolver novas hailidades.
 
 ### Redes Sociais
