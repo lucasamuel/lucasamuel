@@ -2,7 +2,7 @@
 
 Oi, me chamo Lucas Samuel, sou discente do curso de Tecnologia em Análise e em Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi. 
 
-Atualmente faço estágio na <a href="https://lanceiros.com/">Lanceiros Tech</a>, como desenvolvedor web front-end.
+Atualmente estudo o desenvolvimento web front-end.
 Procuro aprimorar meus conhecimentos e desenvolver novas hailidades.
 
 ### Redes Sociais
@@ -13,9 +13,8 @@ Procuro aprimorar meus conhecimentos e desenvolver novas hailidades.
 </a>
 
 
-
 <a href="https://www.instagram.com/lucsamuel_/" target="blank">
-  <img align="center" alt"lucas-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/instagram.svg"
+  <img align="center" alt"lucas-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram.svg"
        style="max-width:100%;">
 </a>
 
