@@ -12,12 +12,6 @@ Procuro aprimorar meus conhecimentos e desenvolver novas hailidades.
        style="max-width:100%;">
 </a>
 
-
-<a href="https://www.instagram.com/lucsamuel_/" target="blank">
-  <img align="center" alt"lucas-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram.svg"
-       style="max-width:100%;">
-</a>
-
 ### Linguagens e Ferramentas
 
 
