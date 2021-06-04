@@ -5,7 +5,7 @@ Oi, me chamo Lucas Samuel, sou discente do curso de Tecnologia em Análise e em 
 Atualmente estudo o desenvolvimento web front-end.
 Procuro aprimorar meus conhecimentos e desenvolver novas hailidades.
 
-### Redes Sociais
+### Onde me encontrar
 
 <a href="https://www.linkedin.com/in/lucassamuel1/" target="blank">
   <img align="center" alt"lucas-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"
