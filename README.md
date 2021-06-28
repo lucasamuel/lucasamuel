@@ -1,6 +1,6 @@
-## Olá, seja bem vindo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Olá, seja bem vinde! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Oi, me chamo Lucas Samuel, sou discente do curso de Tecnologia em Análise e em Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi. 
+Me chamo Lucas Samuel, sou discente do curso de Tecnologia em Análise e em Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi. 
 
 Atualmente estudo o desenvolvimento web front-end.
 Procuro aprimorar meus conhecimentos e desenvolver novas hailidades.
@@ -13,7 +13,6 @@ Procuro aprimorar meus conhecimentos e desenvolver novas hailidades.
 </a>
 
 ### Linguagens e Ferramentas
-
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
