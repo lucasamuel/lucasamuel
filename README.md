@@ -1,4 +1,4 @@
-## Olá, seja bem vinde! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Me chamo Lucas Samuel, sou discente do curso de Tecnologia em Análise e em Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi. 
 
